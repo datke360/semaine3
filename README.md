@@ -4,7 +4,8 @@ Exercice 1 :
 Voici le lien vers l'ensemble de mes badges Codecademy : https://www.codecademy.com/fr/users/datiche36/achievements  
 
 
-Exercice 2 :  
+Exercice 2 : 
+
 <!DOCTYPE html>
 <html>
 	<head>
